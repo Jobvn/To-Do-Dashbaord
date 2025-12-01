@@ -74,7 +74,7 @@ TaskFlow AI
               setTimeout(() => {
                   new Notification("TaskFlow Herinnering", {
                       body: `Vergeet niet: ${task.title}`,
-                      icon: '/favicon.ico' // fallback
+                      icon: './favicon.ico' // fallback
                   });
               }, delayMs);
               setTimeout(() => onClose(), 2000);
