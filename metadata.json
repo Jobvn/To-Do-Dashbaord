@@ -1,0 +1,7 @@
+{
+  "name": "To-Do",
+  "description": "A superior, AI-enhanced to-do application designed to replace Monday.com for personal task management. Features smart status tracking, notifications, and AI-driven prioritization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
